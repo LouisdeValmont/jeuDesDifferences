@@ -1,0 +1,33 @@
+.checks{
+    position: absolute;
+    width: 50px;
+    
+}
+.cross{
+    position: absolute;
+    
+    width: 50px;
+}
+.divCross{
+    position: absolute;
+    z-index: 2;
+}
+#catWithMistake{
+    position: absolute;
+    z-index: -1;
+}
+#check1{
+    margin-left: 409px;
+    margin-top: 85px;
+    /* display: none; */
+}
+#check2{
+    margin-left: 284px;
+    margin-top: 445px;
+    /* display: none; */
+}
+#check3{
+    margin-left: 457px;
+    margin-top: 618px;
+    /* display: none; */
+}
